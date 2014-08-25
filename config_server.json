@@ -1,0 +1,4 @@
+{
+    "mongo":"mongodb://yunsu:password@mongodb.com/yunsu",
+    "method":"aes-256-cfb"
+}
